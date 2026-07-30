@@ -1,6 +1,4 @@
 /* 
-Name: Ishrat Allybuxsh
-Student Number: 21338756
 Module: Operating System -> #ca216/myshell
 
 Acknowledgement of the DCU Academic Integrity Policy:
